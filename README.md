@@ -1,2 +1,3 @@
 # inls161
-INLS 161 assignments
+Tools for Information Literacy course
+First part: HTML, CSS, Javascript
